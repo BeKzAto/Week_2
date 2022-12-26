@@ -1,0 +1,98 @@
+@media all and (max-width: 1261px) {
+  ._container_ {
+    width: 120%;
+  }
+}
+@media all and (max-width: 1024px) {
+  ._container_ {
+    width: 143%;
+  }
+}
+@media all and (max-width: 957px) {
+  ._container_ {
+    width: 153%;
+  }
+}
+@media all and (max-width: 835px) {
+  ._container_ {
+    width: 175%;
+  }
+}
+@media all and (max-width: 768px) {
+  ._container_ {
+    width: 192%;
+  }
+}
+@media all and (max-width: 713px) {
+  ._container_ {
+    width: 206%;
+  }
+}
+@media all and (max-width: 655px) {
+  ._container_ {
+    width: 224%;
+  }
+}
+@media all and (max-width: 610px) {
+  ._container_ {
+    width: 242%;
+  }
+}
+@media all and (max-width: 551px) {
+  ._container_ {
+    width: 268%;
+  }
+}
+@media all and (max-width: 496px) {
+  ._container_ {
+    width: 299%;
+  }
+}
+@media all and (max-width: 460px) {
+  ._container_ {
+    width: 323%;
+  }
+}
+@media all and (max-width: 425px) {
+  ._container_ {
+    width: 352%;
+  }
+}
+@media all and (max-width: 390px) and (max-height: 844px) {
+  ._container_ {
+    width: 379%;
+  }
+}
+@media all and (max-width: 375px) {
+  ._container_ {
+    width: 399%;
+  }
+}
+@media all and (max-width: 348px) {
+  ._container_ {
+    width: 417%;
+  }
+}
+@media all and (max-width: 321px) {
+  ._container_ {
+    width: 436%;
+  }
+}
+@media all and (max-width: 320px) {
+  ._container_ {
+    width: 417%;
+  }
+  .img_body {
+    width: 1267px;
+  }
+  .container_1_left {
+    width: 577px;
+  }
+  .container_1_rights {
+    width: 434px;
+    left: 713px;
+  }
+  .container_5 {
+    left: 7%;
+  }
+}
